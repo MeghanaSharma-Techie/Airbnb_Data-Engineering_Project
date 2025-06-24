@@ -19,6 +19,7 @@ This project showcases a batch ETL pipeline built using **PySpark** in **Databri
 
 ## 📁 Files
 - `Airbnb_ETL_Pipeline.ipynb`: Main notebook with ETL and insights
+   NOTE: Check Cloned file due to visualization display effects.
 - `Data`: Airbnb dataset
 - `Images`: Chart screenshots
 
